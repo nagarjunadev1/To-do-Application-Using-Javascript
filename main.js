@@ -1,4 +1,5 @@
 //Taking data from HTML form
+//Js File
 let mybtn = document.querySelector(".button");
 let myerror = document.querySelector(".error");
 let myli = document.getElementsByTagName("li");
